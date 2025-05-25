@@ -10,9 +10,10 @@
     "license": "ISC",
     "dependencies": {
         "dotenv": "^16.4.1",
-        "express": "^4.18.2",
-        "mongoose": "^8.1.1",
-        "swagger-ui-express": "^5.0.0"
+        "ejercicio-mongo-solucion": "file:",
+        "express": "5.1.0",
+        "mongoose": "^8.15.1",
+        "swagger-ui-express": "^5.0.1"
     },
     "devDependencies": {
         "nodemon": "^3.0.3"
